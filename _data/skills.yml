@@ -4,8 +4,8 @@
       skill_name: HTML5
     - class: css3-plain
       skill_name: CSS3
-    - class: sass-plain
-      skill_name: SASS
+    # - class: sass-plain
+    #   skill_name: SASS
     - class: bootstrap-plain
       skill_name: Bootstrap
     - class: jquery-plain
@@ -13,6 +13,10 @@
 
 - name: languages
   skills:
+    - class: c-plain
+      skill_name: C/C++
+    - class: java-plain
+      skill_name: Java
     - class: javascript-plain
       skill_name: JavaScript
     - class: python-plain
@@ -29,27 +33,29 @@
     - class: mysql-plain
       skill_name: MySQL
 
-- name: frontend frameworks
-  skills:
-    - class: react-plain
-      skill_name: React
-    - class: angularjs-plain
-      skill_name: Angular
-    - class: vuejs-plain
-      skill_name: Vue
-    - class: jekyll-plain
-      skill_name: Jekyll
+# - name: frontend frameworks
+#   skills:
+#     - class: react-plain
+#       skill_name: React
+#     - class: angularjs-plain
+#       skill_name: Angular
+#     - class: vuejs-plain
+#       skill_name: Vue
+#     - class: jekyll-plain
+#       skill_name: Jekyll
 
 - name: backend frameworks
   skills:
     - class: rails-plain
       skill_name: Ruby-on-Rails
-    - class: express-original
-      skill_name: Express
+    # - class: express-original
+    #   skill_name: Express
     - class: nodejs-plain
       skill_name: NodeJS
-    - class: django-plain
-      skill_name: Django
+    - class: meteor-plain
+      skill_name: Meteor
+    # - class: django-plain
+    #   skill_name: Django
 
 - name: devops
   skills:
@@ -61,17 +67,19 @@
       skill_name: Heroku
     - class: docker-plain
       skill_name: Docker
+    - class: amazon-plain
+      skill_name: Amazon S3
 
-- name: testing
-  skills:
-    - class: mocha-plain
-      skill_name: Mocha
-    - class: jasmine-plain
-      skill_name: Jasmine
-    - class: rspec-plain
-      skill_name: RSpec
+# - name: testing
+#   skills:
+#     - class: mocha-plain
+#       skill_name: Mocha
+#     - class: jasmine-plain
+#       skill_name: Jasmine
+#     - class: rspec-plain
+#       skill_name: RSpec
 
-- name: mobile
-  skills:
-    - class: react-original
-      skill_name: React Native
+# - name: mobile
+#   skills:
+#     - class: react-original
+#       skill_name: React Native
