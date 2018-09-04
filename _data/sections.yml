@@ -1,9 +1,9 @@
-projects:
-  url: /projects
-  heading: Projects
-  words: A list of projects and experiments
-  class: m7 projects
-  border: projects
+# projects:
+#   url: /projects
+#   heading: Projects
+#   words: A list of projects and experiments
+#   class: m7 projects
+#   border: projects
 about:
   url: /about
   heading: Me
